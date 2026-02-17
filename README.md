@@ -1,4 +1,4 @@
-# AI Experts Project (JS/TS)
+# AI Software Engineer Assignment (JS/TS)
 
 This project contains a small JavaScript/TypeScript application with a test suite and Docker configuration.
 
